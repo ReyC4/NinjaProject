@@ -6,7 +6,7 @@ My project is a 2D game that I'm developing using Unity and C#. In this game, th
 <br>
 
 ## 🕹️Download Game
-[Download Here!](https://github.com/ReyC4/Ninja-Game-Exe)
+[Download Here!](https://github.com/ReyC4/Ninja-Exe)
 
 <br>
 
